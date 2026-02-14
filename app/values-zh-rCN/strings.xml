@@ -249,6 +249,8 @@
     <string name="hook_debug_summary">允许转储被 hook 进程的 hook 调试信息，可能带来性能影响</string>
     <string name="dump_hook_debug_title">转储 Hook 调试信息</string>
     <string name="dump_hook_debug_summary">转储 Hook 调试信息到 /data/adb/lspd/log</string>
+    <string name="log_to_daemon_title">输出日志到守护进程</string>
+    <string name="log_to_daemon_summary">这能避免模块日志被 app 读取，但可能带来性能影响。</string>
     <plurals name="disable_success_message">
         <item quantity="other">已禁用 %d 个模块</item>
     </plurals>

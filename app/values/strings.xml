@@ -262,6 +262,8 @@
     <string name="hook_debug_summary">Allow dumping of hook debugging information of hooked processes, which may have a performance impact</string>
     <string name="dump_hook_debug_title">Dump hook debug info</string>
     <string name="dump_hook_debug_summary">Dump hook debug info to /data/adb/lspd/log</string>
+    <string name="log_to_daemon_title">Log to daemon</string>
+    <string name="log_to_daemon_summary">This can avoid module logs being read by apps but may cause performance impact</string>
     <plurals name="disable_success_message">
         <item quantity="one">Disabled %d module</item>
         <item quantity="other">Disabled %d modules</item>
