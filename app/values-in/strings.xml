@@ -130,6 +130,7 @@
     <string name="enable_module">Aktifkan modul</string>
     <string name="menu_show_games">Permainan</string>
     <string name="menu_show_modules">Modul</string>
+    <string name="module_scope_list_static_scope">Modul menetapkan cakupan statis</string>
     <string name="failed_to_save_scope_list">Gagal menyimpan ke daftar cakupan</string>
     <string name="app_version">Versi: %1$s</string>
     <string name="use_recommended">Disarankan</string>
@@ -188,8 +189,12 @@
     <string name="settings_xposed_api_call_protection">Proteksi panggilan API Xposed</string>
     <string name="settings_xposed_api_call_protection_summary">Blokir kode modul yang dimuat secara dinamis untuk menggunakan Xposed API, ini mungkin mengganggu beberapa modul namun lebih aman</string>
     <string name="settings_invalidate_inline_hooks">Nonaktifkan inline hook</string>
-    <string name="settings_invalidate_inline_hooks_summary">Melakukan pembersihan libart.so. Ini berisiko menyebabkan malfungsi atau crash acak. Gunakan hanya jika aplikasi tertentu tidak dapat dibuka.</string>
+    <string name="settings_invalidate_inline_hooks_summary">Melakukan pembersihan libart.so untuk aplikasi yang terdaftar. Ini berisiko menyebabkan malfungsi atau crash acak. Gunakan hanya jika aplikasi tertentu tidak dapat dibuka.</string>
     <string name="settings_invalidate_inline_hooks_warning">Jangan laporkan kesalahan apa pun pada pengembang saat opsi ini diaktifkan.</string>
+    <string name="failed_to_save_invalidate_inline_hooks_list">Gagal menyimpan daftar Nonaktifkan inline hook</string>
+    <plurals name="settings_invalidate_inline_hooks_enabled_count">
+        <item quantity="other">%d aplikasi diaktifkan</item>
+    </plurals>
     <!-- Module Repo -->
     <string name="module_readme">Baca aku</string>
     <string name="module_releases">Rilis</string>
@@ -238,9 +243,11 @@
     <string name="disable_success_title">Berhasil</string>
     <string name="hook_debug_title">Debug Hook</string>
     <string name="debugging_title">Debugging</string>
-    <string name="hook_debug_summary">Izinkan pengambilan informasi debug hook dari proses ter-hook, yang dapat memengaruhi kinerja</string>
+    <string name="hook_debug_summary">Izinkan pengambilan informasi debug hook dari proses ter-hook yang dapat memengaruhi performa</string>
     <string name="dump_hook_debug_title">Ambil info debug hook</string>
     <string name="dump_hook_debug_summary">Ambil informasi debug hook ke /data/adb/lspd/log</string>
+    <string name="log_to_daemon_title">Log ke daemon</string>
+    <string name="log_to_daemon_summary">Hal ini dapat mencegah aplikasi membaca log modul, tetapi dapat memengaruhi performa</string>
     <plurals name="disable_success_message">
         <item quantity="other">Modul %d dinonaktifkan</item>
     </plurals>
