@@ -50,7 +50,7 @@
     <string name="need_update">Butuh pembaruan</string>
     <string name="please_update_summary">Silakan pasang LSPosed versi terbaru</string>
     <string name="info_api_version">Versi API</string>
-    <string name="info_framework_version">Versi framework</string>
+    <string name="info_framework_version">Versi kerangka kerja</string>
     <string name="info_manager_package_name">Nama paket manajer</string>
     <string name="info_system_version">Versi sistem</string>
     <string name="info_device">Perangkat</string>
@@ -109,8 +109,8 @@
     <string name="module_install_failed">Gagal menambahkan modul</string>
     <string name="install_to_user">Pasang ke pengguna %s</string>
     <string name="install_to_user_message">Ingin memasang %1$s ke pengguna %2$s? Disarankan untuk memasang secara manual, memaksa pemasangan melalui LSPosed dapat menyebabkan masalah.</string>
-    <string name="expand">perluas</string>
-    <string name="collapse">ciutkan</string>
+    <string name="expand">Perluas</string>
+    <string name="collapse">Ciutkan</string>
     <string name="reset_scope_request_setting">Atur ulang permintaan cakupan</string>
     <string name="reset_scope_request_setting_done">Atur ulang permintaan cakupan selesai</string>
     <!-- AppListActivity -->
@@ -130,6 +130,7 @@
     <string name="enable_module">Aktifkan modul</string>
     <string name="menu_show_games">Permainan</string>
     <string name="menu_show_modules">Modul</string>
+    <string name="module_scope_list_static_scope">Modul menetapkan cakupan statis</string>
     <string name="failed_to_save_scope_list">Gagal menyimpan ke daftar cakupan</string>
     <string name="app_version">Versi: %1$s</string>
     <string name="use_recommended">Disarankan</string>
@@ -188,8 +189,14 @@
     <string name="settings_xposed_api_call_protection">Proteksi panggilan API Xposed</string>
     <string name="settings_xposed_api_call_protection_summary">Blokir kode modul yang dimuat secara dinamis untuk menggunakan Xposed API, ini mungkin mengganggu beberapa modul namun lebih aman</string>
     <string name="settings_invalidate_inline_hooks">Nonaktifkan inline hook</string>
-    <string name="settings_invalidate_inline_hooks_summary">Melakukan pembersihan libart.so. Ini berisiko menyebabkan malfungsi atau crash acak. Gunakan hanya jika aplikasi tertentu tidak dapat dibuka.</string>
+    <string name="settings_invalidate_inline_hooks_summary">Melakukan pembersihan libart.so untuk aplikasi yang terdaftar. Ini berisiko menyebabkan malfungsi atau crash acak. Gunakan hanya jika aplikasi tertentu tidak dapat dibuka.</string>
     <string name="settings_invalidate_inline_hooks_warning">Jangan laporkan kesalahan apa pun pada pengembang saat opsi ini diaktifkan.</string>
+    <string name="failed_to_save_invalidate_inline_hooks_list">Gagal menyimpan daftar Nonaktifkan inline hook</string>
+    <plurals name="settings_invalidate_inline_hooks_enabled_count">
+        <item quantity="other">%d aplikasi diaktifkan</item>
+    </plurals>
+    <string name="settings_enable_new_manager">Gunakan manajer baru</string>
+    <string name="settings_enable_new_manager_summary">Antarmuka manajer baru bergaya MIUI berbasis Compose</string>
     <!-- Module Repo -->
     <string name="module_readme">Baca aku</string>
     <string name="module_releases">Rilis</string>
@@ -199,10 +206,11 @@
     <string name="module_information_collaborators">Kolaborator</string>
     <string name="module_release_view_assets">Aset</string>
     <string name="menu_open_in_browser">Buka di browser</string>
+    <string name="menu_share">Bagikan</string>
     <string name="module_release_load_more">Tampilkan versi lama</string>
     <string name="module_release_no_more">Tidak ada rilis</string>
     <string name="repo_load_failed">Gagal memuat repo modul: %s</string>
-    <string name="sort_upgradable_first">Dapat ditingkatkan dahulu</string>
+    <string name="sort_upgradable_first">Dapat ditingkatkan</string>
     <string name="installed">Terpasang</string>
     <plurals name="module_release_assets_download_count">
         <item quantity="other">%d unduhan</item>
@@ -216,7 +224,7 @@
     <string name="color_indigo">Biru gelap</string>
     <string name="color_blue">Biru</string>
     <string name="color_light_blue">Biru muda</string>
-    <string name="color_cyan">Cyan</string>
+    <string name="color_cyan">Biru kehijauan</string>
     <string name="color_teal">Hijau kebiruan</string>
     <string name="color_green">Hijau</string>
     <string name="color_light_green">Hijau muda</string>
@@ -238,10 +246,56 @@
     <string name="disable_success_title">Berhasil</string>
     <string name="hook_debug_title">Debug Hook</string>
     <string name="debugging_title">Debugging</string>
-    <string name="hook_debug_summary">Izinkan pengambilan informasi debug hook dari proses ter-hook, yang dapat memengaruhi kinerja</string>
+    <string name="hook_debug_summary">Izinkan pengambilan informasi debug hook dari proses ter-hook yang dapat memengaruhi performa</string>
     <string name="dump_hook_debug_title">Ambil info debug hook</string>
     <string name="dump_hook_debug_summary">Ambil informasi debug hook ke /data/adb/lspd/log</string>
+    <string name="log_to_daemon_title">Log ke daemon</string>
+    <string name="log_to_daemon_summary">Hal ini dapat mencegah aplikasi membaca log modul, tetapi dapat memengaruhi performa</string>
     <plurals name="disable_success_message">
         <item quantity="other">Modul %d dinonaktifkan</item>
     </plurals>
+    <!-- Compose Activity -->
+    <string name="follow_system">Ikuti sistem</string>
+    <string name="menu_menu">Menu</string>
+    <string name="menuReload">Muat ulang</string>
+    <string name="sort_default">Default</string>
+    <string name="sort_name_asc">Nama (A-Z)</string>
+    <string name="sort_name_desc">Nama (Z-A)</string>
+    <string name="filter_show_user_apps">Aplikasi pengguna</string>
+    <string name="filter_show_selected_only">Hanya dipilih</string>
+    <string name="filter_hide_recommended">Sembunyikan saran</string>
+    <string name="unknown_author">Tidak diketahui</string>
+    <string name="unknown_version">TIDAK DIKETAHUI</string>
+    <string name="unknown_asset">Aset tidak diketahui</string>
+    <string name="download_asset">Unduh</string>
+    <string name="nav_back">Kembali</string>
+    <string name="menu_filter">Filter</string>
+    <!-- Logs Page -->
+    <string name="menu_parsed_view">Terurai</string>
+    <string name="menu_raw_view">Mentah</string>
+    <!-- Theme Mode -->
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_summary">Pilih mode tema aplikasi</string>
+    <string name="settings_theme_mode_system">Ikuti sistem</string>
+    <string name="settings_theme_mode_light">Terang</string>
+    <string name="settings_theme_mode_dark">Gelap</string>
+    <string name="settings_theme_mode_monet_system">Monet (Ikuti sistem)</string>
+    <string name="settings_theme_mode_monet_light">Monet (Terang)</string>
+    <string name="settings_theme_mode_monet_dark">Monet (Gelap)</string>
+    <string name="settings_key_color">Warna aksen</string>
+    <string name="settings_key_color_summary">Sesuaikan warna dasar saat menggunakan Monet</string>
+    <string name="settings_key_color_default">Default</string>
+    <string name="settings_page_scale">Skala tampilan</string>
+    <string name="settings_page_scale_summary">Sesuaikan skala tampilan global</string>
+    <!-- Refresh -->
+    <string name="refresh_pulling">Tarik ke bawah untuk menyegarkan</string>
+    <string name="refresh_release">Lepas untuk menyegarkan</string>
+    <string name="refresh_refresh">Menyegarkan…</string>
+    <string name="refresh_complete">Berhasil menyegarkan</string>
+    <!-- Repository -->
+    <string name="time_just_now">Baru saja</string>
+    <string name="time_minute_ago">%d semenit lalu</string>
+    <string name="time_minutes_ago">%d beberapa menit lalu</string>
+    <string name="time_hours_ago">%d beberapa jam lalu</string>
+    <string name="time_days_ago">%d sehari lalu</string>
 </resources>
