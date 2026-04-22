@@ -117,6 +117,7 @@
     <string name="collapse">收起</string>
     <string name="reset_scope_request_setting">重置作用域请求设置</string>
     <string name="reset_scope_request_setting_done">已重置作用域请求设置</string>
+    <string name="hide_non_system_overlay_failed_no_permission">无法隐藏非系统悬浮窗，请更新管理器。</string>
     <!-- AppListActivity -->
     <string name="compile_speed">重新优化</string>
     <string name="compile_speed_msg">优化中…</string>

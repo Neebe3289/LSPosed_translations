@@ -122,6 +122,7 @@
     <string name="collapse">collapse</string>
     <string name="reset_scope_request_setting">Reset scope request setting</string>
     <string name="reset_scope_request_setting_done">Reset scope request setting done</string>
+    <string name="hide_non_system_overlay_failed_no_permission">Failed to hide non-system overlay, please upgrade manager.</string>
 
     <!-- AppListActivity -->
     <string name="compile_speed">Re-optimize</string>
