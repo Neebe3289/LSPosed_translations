@@ -153,7 +153,7 @@
     <string name="group_network">Ağ</string>
     <string name="dns_over_http">HTTPS üzerinden DNS</string>
     <string name="dns_over_http_summary">Bazı ülkelerde DNS zehirlenmesi için geçici çözümdür</string>
-    <string name="settings_repo_cdn">Modül Depo CDN'si</string>
+    <string name="settings_repo_cdn">Modül Depo CDN\'si</string>
     <string name="repo_cdn_default">Varsayılan</string>
     <string name="repo_cdn_backup">Yedekle</string>
     <string name="settings_show_hidden_icon_apps_enabled">Uygulamaları başlatıcı simgelerini göstermeye zorla</string>
