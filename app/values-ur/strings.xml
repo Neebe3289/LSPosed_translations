@@ -44,6 +44,8 @@
     <string name="not_enabled">فعال نہیں ہے۔</string>
     <string name="supported">حمایت یافتہ</string>
     <string name="unsupported">غیر تعاون یافتہ</string>
+    <string name="mounted">نصب شدہ</string>
+    <string name="injected">انجیکٹ شدہ</string>
     <string name="android_version_unsatisfied">Android ورژن غیر مطمئن ہے۔</string>
     <string name="crashed">کریش ہو گیا۔</string>
     <string name="mount_failed">ماؤنٹ ناکام ہوگیا۔</string>

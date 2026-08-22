@@ -51,6 +51,8 @@
     <string name="not_enabled">Etkin değil</string>
     <string name="supported">Destekleniyor</string>
     <string name="unsupported">Desteklenmiyor</string>
+    <string name="mounted">Bağlandı</string>
+    <string name="injected">Enjekte edildi</string>
     <string name="android_version_unsatisfied">Android sürümü yetersiz</string>
     <string name="crashed">Çöktü</string>
     <string name="mount_failed">Bağlama başarısız</string>
@@ -306,4 +308,3 @@
     </plurals>
 
 </resources>
-

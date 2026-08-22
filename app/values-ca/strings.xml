@@ -44,6 +44,8 @@
     <string name="not_enabled">No habilitat</string>
     <string name="supported">Admet</string>
     <string name="unsupported">Sense suport</string>
+    <string name="mounted">Muntat</string>
+    <string name="injected">Injectat</string>
     <string name="android_version_unsatisfied">La versió d\'Android no està satisfeta</string>
     <string name="crashed">Estavellat</string>
     <string name="mount_failed">El muntatge ha fallat</string>

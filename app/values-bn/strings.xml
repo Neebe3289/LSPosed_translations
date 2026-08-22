@@ -44,6 +44,8 @@
     <string name="not_enabled">সক্রিয় না</string>
     <string name="supported">সমর্থিত</string>
     <string name="unsupported">অসমর্থিত</string>
+    <string name="mounted">মাউন্ট করা হয়েছে</string>
+    <string name="injected">ইনজেক্ট করা হয়েছে</string>
     <string name="android_version_unsatisfied">অ্যান্ড্রয়েড সংস্করণ অসন্তুষ্ট</string>
     <string name="crashed">বিধ্বস্ত</string>
     <string name="mount_failed">মাউন্ট ব্যর্থ হয়েছে</string>

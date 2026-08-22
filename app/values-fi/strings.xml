@@ -43,6 +43,8 @@
     <string name="not_enabled">Ei käytössä</string>
     <string name="supported">Tuettu</string>
     <string name="unsupported">Ei tuettu</string>
+    <string name="mounted">Liitetty</string>
+    <string name="injected">Injektoitu</string>
     <string name="android_version_unsatisfied">Android-versio tyytymätön</string>
     <string name="crashed">Crashed</string>
     <string name="mount_failed">Kiinnitys epäonnistui</string>

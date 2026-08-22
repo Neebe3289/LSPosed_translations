@@ -36,6 +36,8 @@
     <string name="not_enabled">Ne çalak kirin</string>
     <string name="supported">Piştgirî kirin</string>
     <string name="unsupported">Piştgirî nekirin</string>
+    <string name="mounted">Montkirî</string>
+    <string name="injected">Derzîkirî</string>
     <string name="android_version_unsatisfied">Guhertoya Android-ê ne razî ye</string>
     <string name="crashed">Qeza kirin</string>
     <string name="info_copied">Li clipboardê hate kopî kirin</string>

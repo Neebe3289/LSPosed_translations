@@ -51,6 +51,8 @@
     <string name="not_enabled">Не включена</string>
     <string name="supported">Поддерживается</string>
     <string name="unsupported">Не поддерживается</string>
+    <string name="mounted">Смонтировано</string>
+    <string name="injected">Внедрено</string>
     <string name="android_version_unsatisfied">Версия Android не подходит</string>
     <string name="crashed">Сбой</string>
     <string name="mount_failed">Ошибка монтирования</string>

@@ -44,6 +44,8 @@
     <string name="not_enabled">Вимкнено</string>
     <string name="supported">Підтримується</string>
     <string name="unsupported">Не підтримується</string>
+    <string name="mounted">Змонтовано</string>
+    <string name="injected">Інжектовано</string>
     <string name="android_version_unsatisfied">Версія Android не підтримується</string>
     <string name="crashed">Помилка</string>
     <string name="mount_failed">Не вдалося під\'єднати</string>

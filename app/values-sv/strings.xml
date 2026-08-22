@@ -44,6 +44,8 @@
     <string name="not_enabled">Inte aktiverad</string>
     <string name="supported">Stöds</string>
     <string name="unsupported">Ej stödd</string>
+    <string name="mounted">Monterad</string>
+    <string name="injected">Injicerad</string>
     <string name="android_version_unsatisfied">Android-version otillfredsställd</string>
     <string name="crashed">Kraschade</string>
     <string name="mount_failed">Montering misslyckades</string>

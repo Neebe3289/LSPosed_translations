@@ -44,6 +44,8 @@
     <string name="not_enabled">فعال نشده</string>
     <string name="supported">پشتیبانی می شود</string>
     <string name="unsupported">پشتیبانی نمی شود</string>
+    <string name="mounted">متصل‌شده</string>
+    <string name="injected">تزریق‌شده</string>
     <string name="android_version_unsatisfied">نسخه اندروید مناسب نیست</string>
     <string name="crashed">متوقف شده</string>
     <string name="mount_failed">Mount انجام نشد</string>

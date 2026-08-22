@@ -43,6 +43,8 @@
     <string name="not_enabled">Ikke aktiveret</string>
     <string name="supported">Understøttet</string>
     <string name="unsupported">Ikke understøttet</string>
+    <string name="mounted">Monteret</string>
+    <string name="injected">Injiceret</string>
     <string name="android_version_unsatisfied">Android-version utilfreds</string>
     <string name="crashed">Nedstyrtet</string>
     <string name="mount_failed">Montering mislykkedes</string>

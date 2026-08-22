@@ -54,6 +54,8 @@
 <string name="not_enabled">يېقىلمىغان</string>
 <string name="supported">قوللىنىدۇ</string>
 <string name="unsupported">قوللانمايدۇ</string>
+<string name="mounted">ئورنىتىلدى</string>
+<string name="injected">كۆرگۈزۈلدى</string>
 <string name="android_version_unsatisfied">Android نۇسخىسى تەلەپنى قاندۇرالمايدۇ</string>
 <string name="crashed">يىمىرىلدى</string>
 <string name="mount_failed">تاغلاش مەغلۇب بولدى</string>

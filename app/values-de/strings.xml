@@ -47,6 +47,8 @@ JJ108</string>
     <string name="not_enabled">Deaktiviert</string>
     <string name="supported">Unterstützt</string>
     <string name="unsupported">Nicht unterstützt</string>
+    <string name="mounted">Eingehängt</string>
+    <string name="injected">Injiziert</string>
     <string name="android_version_unsatisfied">Android-Version passt nicht</string>
     <string name="crashed">Abgestürzt</string>
     <string name="mount_failed">Mounten fehlgeschlagen</string>

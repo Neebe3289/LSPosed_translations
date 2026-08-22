@@ -44,6 +44,8 @@
     <string name="not_enabled">Nije omogućeno</string>
     <string name="supported">Podržano</string>
     <string name="unsupported">Nepodržano</string>
+    <string name="mounted">Montirano</string>
+    <string name="injected">Ubačeno</string>
     <string name="android_version_unsatisfied">Verzija Androida nije zadovoljavajuća</string>
     <string name="crashed">Srušio se</string>
     <string name="mount_failed">Postavljanje nije uspjelo</string>

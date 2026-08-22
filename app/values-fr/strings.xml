@@ -45,6 +45,8 @@ https://github.com/tclement0922</string>
     <string name="not_enabled">Non actif</string>
     <string name="supported">Supporté</string>
     <string name="unsupported">Non supporté</string>
+    <string name="mounted">Monté</string>
+    <string name="injected">Injecté</string>
     <string name="android_version_unsatisfied">Version d\'Android non satisfaisante</string>
     <string name="crashed">Planté</string>
     <string name="mount_failed">Échec du montage</string>

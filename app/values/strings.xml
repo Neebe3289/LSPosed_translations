@@ -52,6 +52,8 @@
     <string name="not_enabled">Not enabled</string>
     <string name="supported">Supported</string>
     <string name="unsupported">Unsupported</string>
+    <string name="mounted">Mounted</string>
+    <string name="injected">Injected</string>
     <string name="android_version_unsatisfied">Android version unsatisfied</string>
     <string name="crashed">Crashed</string>
     <string name="mount_failed">Mount failed</string>

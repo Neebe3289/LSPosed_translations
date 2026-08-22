@@ -48,6 +48,8 @@
     <string name="not_enabled">Chưa bật</string>
     <string name="supported">Được hỗ trợ</string>
     <string name="unsupported">Không được hỗ trợ</string>
+    <string name="mounted">Đã gắn kết</string>
+    <string name="injected">Đã chèn</string>
     <string name="android_version_unsatisfied">Phiên bản Android không thoả mãn</string>
     <string name="crashed">Bị lỗi</string>
     <string name="mount_failed">Gắn kết thất bại</string>

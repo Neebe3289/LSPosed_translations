@@ -48,6 +48,8 @@
     <string name="not_enabled">비활성화됨</string>
     <string name="supported">지원됨</string>
     <string name="unsupported">지원되지 않음</string>
+    <string name="mounted">마운트됨</string>
+    <string name="injected">주입됨</string>
     <string name="android_version_unsatisfied">Android 버전이 맞지 않습니다</string>
     <string name="crashed">충돌함</string>
     <string name="mount_failed">마운트 실패</string>

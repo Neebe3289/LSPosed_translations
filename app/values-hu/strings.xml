@@ -45,6 +45,8 @@
     <string name="not_enabled">Nincs engedélyezve</string>
     <string name="supported">Támogatott</string>
     <string name="unsupported">Nem támogatott</string>
+    <string name="mounted">Csatolva</string>
+    <string name="injected">Injektálva</string>
     <string name="android_version_unsatisfied">Az Android verzió nem megfelelő</string>
     <string name="crashed">Összeomlott</string>
     <string name="mount_failed">A csatolás sikertelen</string>

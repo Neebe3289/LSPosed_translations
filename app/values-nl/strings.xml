@@ -44,6 +44,8 @@
     <string name="not_enabled">Niet ingeschakeld</string>
     <string name="supported">Ondersteund</string>
     <string name="unsupported">Niet-ondersteunde</string>
+    <string name="mounted">Gekoppeld</string>
+    <string name="injected">Geïnjecteerd</string>
     <string name="android_version_unsatisfied">Android versie onbevredigd</string>
     <string name="crashed">Crashed</string>
     <string name="mount_failed">Berg mislukt</string>

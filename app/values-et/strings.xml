@@ -44,6 +44,8 @@
     <string name="not_enabled">Pole lubatud</string>
     <string name="supported">Toetatud</string>
     <string name="unsupported">Toetamata</string>
+    <string name="mounted">Paigaldatud</string>
+    <string name="injected">Sisestatud</string>
     <string name="android_version_unsatisfied">Androidi versioon ei ole toetatud</string>
     <string name="crashed">Kokku jooksnud</string>
     <string name="mount_failed">Kinnitus ebaõnnestus</string>

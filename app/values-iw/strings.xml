@@ -43,6 +43,8 @@
     <string name="not_enabled">לא מופעל</string>
     <string name="supported">נתמך</string>
     <string name="unsupported">לא נתמך</string>
+    <string name="mounted">מחובר</string>
+    <string name="injected">מוזרק</string>
     <string name="android_version_unsatisfied">גרסת אנדרואיד לא מספקת</string>
     <string name="crashed">התרסק</string>
     <string name="mount_failed">ה-mount נכשל</string>

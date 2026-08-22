@@ -42,6 +42,8 @@
     <string name="not_enabled">Не е разрешено</string>
     <string name="supported">Поддържан</string>
     <string name="unsupported">Неподдържан</string>
+    <string name="mounted">Монтиран</string>
+    <string name="injected">Инжектиран</string>
     <string name="android_version_unsatisfied">Версията за Android е неудовлетворена</string>
     <string name="crashed">Счупен</string>
     <string name="mount_failed">Монтирането е неуспешно</string>

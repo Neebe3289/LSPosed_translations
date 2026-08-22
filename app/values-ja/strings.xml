@@ -49,6 +49,8 @@
     <string name="not_enabled">無効</string>
     <string name="supported">対応</string>
     <string name="unsupported">非対応</string>
+    <string name="mounted">マウント済み</string>
+    <string name="injected">注入済み</string>
     <string name="android_version_unsatisfied">Androidのバージョンが適合しません</string>
     <string name="crashed">クラッシュしました</string>
     <string name="mount_failed">マウントに失敗しました</string>

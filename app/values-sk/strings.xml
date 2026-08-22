@@ -43,6 +43,8 @@
     <string name="not_enabled">Nie je povolené</string>
     <string name="supported">Podporované stránky</string>
     <string name="unsupported">Nepodporované</string>
+    <string name="mounted">Pripojené</string>
+    <string name="injected">Injektované</string>
     <string name="android_version_unsatisfied">Verzia pre Android nespokojná</string>
     <string name="crashed">Havarovaný</string>
     <string name="mount_failed">Montáž zlyhala</string>

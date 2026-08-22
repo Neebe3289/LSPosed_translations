@@ -51,6 +51,8 @@
     <string name="not_enabled">未启用</string>
     <string name="supported">支持</string>
     <string name="unsupported">不支持</string>
+    <string name="mounted">已挂载</string>
+    <string name="injected">已注入</string>
     <string name="android_version_unsatisfied">系统版本不受支持</string>
     <string name="crashed">崩溃</string>
     <string name="mount_failed">挂载失败</string>

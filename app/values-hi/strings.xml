@@ -44,6 +44,8 @@
     <string name="not_enabled">निष्क्रिय</string>
     <string name="supported">समर्थित</string>
     <string name="unsupported">असमर्थित</string>
+    <string name="mounted">माउंट किया गया</string>
+    <string name="injected">इंजेक्ट किया गया</string>
     <string name="android_version_unsatisfied">Android संस्करण असंतुष्ट</string>
     <string name="crashed">दुर्घटनाग्रस्त</string>
     <string name="mount_failed">माउंट विफल</string>

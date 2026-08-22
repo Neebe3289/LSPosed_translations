@@ -44,6 +44,8 @@
     <string name="not_enabled">Μη ενεργό</string>
     <string name="supported">Υποστηριζόμενο</string>
     <string name="unsupported">Μη υποστηριζόμενο</string>
+    <string name="mounted">Προσαρτημένο</string>
+    <string name="injected">Εγχυμένο</string>
     <string name="android_version_unsatisfied">Ανικανοποίητη έκδοση Android</string>
     <string name="crashed">Συνετρίβη</string>
     <string name="mount_failed">Mount απέτυχε</string>

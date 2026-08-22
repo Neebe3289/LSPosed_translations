@@ -44,6 +44,8 @@
     <string name="not_enabled">Neįjungta</string>
     <string name="supported">Palaikomas</string>
     <string name="unsupported">Nepalaikomas</string>
+    <string name="mounted">Prijungtas</string>
+    <string name="injected">Įšvirkštas</string>
     <string name="android_version_unsatisfied">\"Android\" versija nepatenkinti</string>
     <string name="crashed">Sugedo</string>
     <string name="mount_failed">Montavimas nepavyko</string>

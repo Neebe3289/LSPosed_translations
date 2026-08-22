@@ -36,6 +36,8 @@
     <string name="not_enabled">Nie geaktiveer nie</string>
     <string name="supported">Ondersteun</string>
     <string name="unsupported">Ongesteun</string>
+    <string name="mounted">Gemonteer</string>
+    <string name="injected">Geïnjekteer</string>
     <string name="android_version_unsatisfied">Android-weergawe nie tevrede nie</string>
     <string name="crashed">Het neergestort</string>
     <string name="mount_failed">Montering het misluk</string>

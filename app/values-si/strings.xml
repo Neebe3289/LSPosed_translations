@@ -43,6 +43,8 @@
     <string name="not_enabled">සක්‍රීය කර නැත</string>
     <string name="supported">සහාය දුන්නා</string>
     <string name="unsupported">සහාය නොදක්වයි</string>
+    <string name="mounted">සවිකර ඇත</string>
+    <string name="injected">ඇතුළු කර ඇත</string>
     <string name="android_version_unsatisfied">Android අනුවාදය තෘප්තිමත් නොවේ</string>
     <string name="crashed">කඩා වැටුණා</string>
     <string name="mount_failed">සවි කිරීම අසාර්ථක විය</string>

@@ -46,6 +46,8 @@
     <string name="not_enabled">غير مفعل</string>
     <string name="supported">مدعوم</string>
     <string name="unsupported">غير مدعوم</string>
+    <string name="mounted">مُركّب</string>
+    <string name="injected">مُحقن</string>
     <string name="android_version_unsatisfied">نسخة الاندرويد غير مقبولة</string>
     <string name="crashed">إنهار التطبيق</string>
     <string name="mount_failed">فشل التركيب</string>

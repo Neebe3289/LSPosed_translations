@@ -49,6 +49,8 @@
     <string name="not_enabled">Nonaktif</string>
     <string name="supported">Didukung</string>
     <string name="unsupported">Tidak didukung</string>
+    <string name="mounted">Terpasang</string>
+    <string name="injected">Diinjeksikan</string>
     <string name="android_version_unsatisfied">Versi Android tidak tersedia</string>
     <string name="crashed">Rusak</string>
     <string name="mount_failed">Mount gagal</string>

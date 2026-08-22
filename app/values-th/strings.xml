@@ -43,6 +43,8 @@
     <string name="not_enabled">ไม่ได้เปิดใช้งาน</string>
     <string name="supported">ได้รับการสนับสนุน</string>
     <string name="unsupported">ไม่รองรับ</string>
+    <string name="mounted">เมานต์แล้ว</string>
+    <string name="injected">ฉีดแล้ว</string>
     <string name="android_version_unsatisfied">เวอร์ชัน Android ไม่พอใจ</string>
     <string name="crashed">พัง</string>
     <string name="mount_failed">เมานต์ล้มเหลว</string>
