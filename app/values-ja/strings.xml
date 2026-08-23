@@ -37,6 +37,8 @@
     <string name="system_inject_fail"><![CDATA[本現象はごく稀に発生し、<b>Magisk</b>もしくは低品質な Magisk モジュールが原因で発生します。<br/>ZygiskとLSPosed 以外の Magisk モジュールを一時的に無効化してみるか、開発者へすべてのログを提出してください。]]></string>
     <string name="system_prop_incorrect_summary">システム設定が正しくありません</string>
     <string name="system_prop_incorrect"><![CDATA[必須のシステム設定が変更もしくは削除されています。<br/>モジュールが無効化される場合があります。]]></string>
+    <string name="hyrt_unavailable_summary">HyperOS Runtime の注入に失敗しました</string>
+    <string name="hyrt_unavailable">HyperOS Runtime が検出されましたが、Zygisk Next API は利用できません。ネイティブモジュールは HyperOS Runtime プロセスに読み込まれません。</string>
     <string name="need_update">更新が必要です</string>
     <string name="developer_warning_title">モジュール開発者へのお知らせ</string>
     <string name="developer_warning_summary">Android Studio でデプロイの最適化を無効にするか、`gradlew installDebug` を使用してインストールしてください。そうしないと、モジュールを更新できません。</string>

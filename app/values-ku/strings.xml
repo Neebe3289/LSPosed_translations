@@ -26,6 +26,8 @@
     <string name="system_inject_fail_summary">Derzkirina Çarçoveya Pergalê têk çû</string>
     <string name="system_inject_fail"><![CDATA[Ev kêm e û dibe ku ji hêla <b>Magisk</b> an hin modulên Magisk-a kêm-kalîteyê ve çêbibe.<br/>Ji kerema xwe hewl bidin ku modulên Magisk ji bilî Zygisk û LSPosed neçalak bikin an jî têketinek tevahî ji pêşdebiran re bişînin.]]></string>
     <string name="system_prop_incorrect"><![CDATA[Hin taybetmendiyên pergalê yên pêwîst jêbirin an guherandin.<br/>Dibe ku modul carinan betal bibin.]]></string>
+    <string name="hyrt_unavailable_summary">Derzkirina HyperOS Runtime têk çû</string>
+    <string name="hyrt_unavailable">HyperOS Runtime hate dîtin, lê Zygisk Next API ne berdest e. Modulên xwemalî dê di pêvajoyên HyperOS Runtime de neyên barkirin.</string>
     <string name="need_update">Pêdivî ye ku nûve bike</string>
     <string name="info_manager_package_name">Navê pakêta rêveberê</string>
     <string name="info_system_version">Guhertoya pergalê</string>

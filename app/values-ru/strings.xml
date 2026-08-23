@@ -39,6 +39,8 @@
     <string name="system_inject_fail"><![CDATA[Это редкость и может быть вызвано <b>Magisk</b> или несовместимыми модулями Magisk.<br/>Пожалуйста, попробуйте отключить модули Magisk кроме Zygisk и LSPosed или пришлите полные логи разработчику]]></string>
     <string name="system_prop_incorrect_summary">Неправильные системные настройки</string>
     <string name="system_prop_incorrect"><![CDATA[Неправильные системные настройки.<br/>Некоторые системные настройки нужные для работы удалены или изменены.<br/>Модули могут не работать должным образом]]></string>
+    <string name="hyrt_unavailable_summary">Ошибка внедрения в HyperOS Runtime</string>
+    <string name="hyrt_unavailable">Обнаружена среда HyperOS Runtime, но API Zygisk Next недоступен. Нативные модули не будут загружаться в процессы HyperOS Runtime.</string>
     <string name="need_update">Требуется обновление</string>
     <string name="developer_warning_title">Советы разработчику модулей</string>
     <string name="developer_warning_summary">Пожалуйста, отключите оптимизацию развертывания в Android Studio или используйте для установки команду `gradlew installDebug`. Иначе модуль не обновится</string>

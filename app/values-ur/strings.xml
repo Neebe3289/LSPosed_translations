@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[یہ نایاب ہے اور یہ <b>Magisk</b> یا کچھ کم معیار کے Magisk ماڈیولز کی وجہ سے ہو سکتا ہے۔<br/>براہ کرم Zygisk اور LSPosed کے علاوہ Magisk ماڈیولز کو غیر فعال کرنے کی کوشش کریں یا مکمل لاگ ڈویلپرز کو جمع کرائیں۔]]></string>
     <string name="system_prop_incorrect_summary">سسٹم پروپ غلط ہے۔</string>
     <string name="system_prop_incorrect"><![CDATA[سسٹم کی کچھ ضروری خصوصیات حذف یا ترمیم کی گئیں۔<br/>ماڈیول کبھی کبھار باطل ہو سکتے ہیں۔]]></string>
+    <string name="hyrt_unavailable_summary">HyperOS Runtime انجکشن ناکام۔</string>
+    <string name="hyrt_unavailable">HyperOS Runtime کا پتہ چلا، لیکن Zygisk Next API دستیاب نہیں ہے۔ مقامی ماڈیولز HyperOS Runtime پراسیسز میں لوڈ نہیں کیے جائیں گے۔</string>
     <string name="need_update">اپ ڈیٹ درکار ہے۔</string>
     <string name="info_manager_package_name">مینیجر پیکیج کا نام</string>
     <string name="info_system_version">سسٹم ورژن۔</string>

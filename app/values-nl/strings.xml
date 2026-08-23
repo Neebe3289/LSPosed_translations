@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[Systeem Framework injectie mislukt.<br/>Dit is zeldzaam en kan worden veroorzaakt door <b>Magisk</b> of sommige Magisk-modules van lage kwaliteit.<br/>Probeer andere Magisk-modules dan Zygisk en LSPosed uit te schakelen of stuur een volledig logboek naar de ontwikkelaars.]]></string>
     <string name="system_prop_incorrect_summary">Systeem prop incorrect</string>
     <string name="system_prop_incorrect"><![CDATA[Enkele noodzakelijke systeemeigenschappen verwijderd of gewijzigd.<br/>Modules kunnen af en toe ongeldig worden.]]></string>
+    <string name="hyrt_unavailable_summary">HyperOS Runtime-injectie mislukt</string>
+    <string name="hyrt_unavailable">HyperOS Runtime is gedetecteerd, maar de Zygisk Next API is niet beschikbaar. Native modules worden niet in HyperOS Runtime-processen geladen.</string>
     <string name="need_update">Bijwerken is nodig</string>
     <string name="info_manager_package_name">Naam beheerderspakket</string>
     <string name="info_system_version">Systeem versie</string>

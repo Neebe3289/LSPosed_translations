@@ -40,6 +40,8 @@
 </string>
 <string name="system_prop_incorrect_summary">سىستېما خاسلىقى خاتا</string>
 <string name="system_prop_incorrect">
+    <string name="hyrt_unavailable_summary">HyperOS Runtime نى كىرگۈزۈش مەغلۇپ بولدى</string>
+    <string name="hyrt_unavailable">HyperOS Runtime بايقالدى، ئەمما Zygisk Next API نى ئىشلەتكىلى بولمايدۇ. يەرلىك مودۇللار HyperOS Runtime جەريانلىرىغا يۈكلەنمەيدۇ.</string>
 <![CDATA[ بەزى زۆرۈر سىستېما خاسلىقلىرى ئۆچۈرۈلگەن ياكى ئۆزگەرتىلگەن.<br/>مودۇللار ئاندا-ساندا ئىشتىن چىقىپ قېلىشى مۇمكىن. ]]>
 </string>
 <string name="need_update">يېڭىلاش كېرەك</string>

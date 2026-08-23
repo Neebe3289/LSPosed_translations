@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[Toto je vzácné a může to být způsobeno <b>Magisk</b>em nebo některými málo kvalitními moduly Magisku.<br/>Zkuste vypnout moduly Magisk jiné než Zygisk a LSPosed nebo odešlete kompletní log vývojářům.]]></string>
     <string name="system_prop_incorrect_summary">Nesprávné systémové prop</string>
     <string name="system_prop_incorrect"><![CDATA[Některé potřebné systémové vlastnosti byly odstraněny nebo změněny.<br/>Moduly mohou být někdy neplatné a tedy nefunkční.]]></string>
+    <string name="hyrt_unavailable_summary">Injektáž do HyperOS Runtime se nezdařila</string>
+    <string name="hyrt_unavailable">Bylo zjištěno prostředí HyperOS Runtime, ale rozhraní Zygisk Next API není dostupné. Nativní moduly nebudou načteny do procesů HyperOS Runtime.</string>
     <string name="need_update">Je třeba aktualizovat</string>
     <string name="info_manager_package_name">Název balíčku správce</string>
     <string name="info_system_version">Verze systému</string>

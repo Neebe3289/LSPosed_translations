@@ -33,6 +33,8 @@
     <string name="system_inject_fail"><![CDATA[זה נדיר ועלול להיגרם על ידי <b>Magisk</b> או מודולי Magisk באיכות נמוכה.<br/>אנא נסה להשבית מודולי Magisk שאינם Zygisk ו-LSPosed או שלח דיווח לוג מלא למפתחים.]]></string>
     <string name="system_prop_incorrect_summary">מאפיין המערכת שגוי</string>
     <string name="system_prop_incorrect"><![CDATA[חלק ממאפייני המערכת הדרושים נמחקו או שונו.<br/>המודולים עשויים להתבטל מדי פעם.]]></string>
+    <string name="hyrt_unavailable_summary">ההזרקה ל-HyperOS Runtime נכשלה</string>
+    <string name="hyrt_unavailable">זוהה HyperOS Runtime, אך Zygisk Next API אינו זמין. מודולים מקוריים לא ייטענו לתהליכי HyperOS Runtime.</string>
     <string name="need_update">צריך לעדכן</string>
     <string name="info_manager_package_name">שם חבילת מנהל</string>
     <string name="info_system_version">גרסת מערכת</string>

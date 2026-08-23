@@ -33,6 +33,8 @@
     <string name="system_inject_fail"><![CDATA[Dette er sjældent og kan være forårsaget af <b>Magisk</b> eller nogle lavkvalitets Magisk moduler.<br/>Prøv at deaktivere andre Magisk moduler end Zygisk og LSPosed eller indsende fuld log til udviklere.]]></string>
     <string name="system_prop_incorrect_summary">System prop forkert</string>
     <string name="system_prop_incorrect"><![CDATA[Nogle nødvendige systemegenskaber slettet eller ændret.<br/>Moduler kan ugyldiggøre lejlighedsvis.]]></string>
+    <string name="hyrt_unavailable_summary">HyperOS Runtime-injektion mislykkedes</string>
+    <string name="hyrt_unavailable">HyperOS Runtime blev registreret, men Zygisk Next API er ikke tilgængelig. Native moduler indlæses ikke i HyperOS Runtime-processer.</string>
     <string name="need_update">Skal opdateres</string>
     <string name="info_manager_package_name">Navn på manager-pakke</string>
     <string name="info_system_version">System version</string>

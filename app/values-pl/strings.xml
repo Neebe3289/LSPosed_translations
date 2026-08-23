@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[Jest to rzadkie i może być spowodowane przez <b>Magiska</b> lub niektóre moduły Magisk niskiej jakości.<br/>Spróbuj wyłączyć moduły Magisk inne niż Zygisk i LSPosed lub przesłać pełny log programistom.]]></string>
     <string name="system_prop_incorrect_summary">Nieprawidłowy system prop</string>
     <string name="system_prop_incorrect"><![CDATA[Niektóre niezbędne właściwości systemowe zostały usunięte lub zmienione.<br/>Moduły mogą czasami działać niepoprawnie.]]></string>
+    <string name="hyrt_unavailable_summary">Wstrzyknięcie do HyperOS Runtime nie powiodło się</string>
+    <string name="hyrt_unavailable">Wykryto HyperOS Runtime, ale interfejs Zygisk Next API jest niedostępny. Moduły natywne nie zostaną załadowane do procesów HyperOS Runtime.</string>
     <string name="need_update">Konieczna aktualizacja</string>
     <string name="info_manager_package_name">Nazwa pakietu menedżera</string>
     <string name="info_system_version">Wersja systemu</string>

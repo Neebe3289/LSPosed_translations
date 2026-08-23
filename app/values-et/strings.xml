@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[Seda esineb harva ja selle põhjuseks võib olla <b>Magisk</b> või mõned madala kvaliteediga Magisk-moodulid.<br/>Palun proovige lülitada välja Magisk\'i moodulid peale Zygisk ja LSPosed või esitage täielik logi arendajatele.]]></string>
     <string name="system_prop_incorrect_summary">Süsteemi tugi vale</string>
     <string name="system_prop_incorrect"><![CDATA[Mõned vajalikud süsteemiomadused kustutatud või muudetud.<br/>Moodulid võivad aeg-ajalt kehtetuks muutuda.]]></string>
+    <string name="hyrt_unavailable_summary">HyperOS Runtime’i süstimine ebaõnnestus</string>
+    <string name="hyrt_unavailable">HyperOS Runtime tuvastati, kuid Zygisk Next API pole saadaval. Natiivmooduleid ei laadita HyperOS Runtime’i protsessidesse.</string>
     <string name="need_update">Vaja uuendada</string>
     <string name="info_manager_package_name">Manager paketi nimi</string>
     <string name="info_system_version">Süsteemi versioon</string>

@@ -37,6 +37,8 @@
     <string name="system_inject_fail"><![CDATA[This is rare and may be caused by <b>Magisk</b> or some low-quality Magisk modules.<br/>Please try to disable Magisk modules other than Zygisk and LSPosed or submit full log to developers.]]></string>
     <string name="system_prop_incorrect_summary">Propiedad del sistema incorrecta</string>
     <string name="system_prop_incorrect"><![CDATA[Some necessary system properties deleted or modified.<br/>Modules may invalidate occasionally.]]></string>
+    <string name="hyrt_unavailable_summary">Falló la inyección de HyperOS Runtime</string>
+    <string name="hyrt_unavailable">Se detectó HyperOS Runtime, pero la API de Zygisk Next no está disponible. Los módulos nativos no se cargarán en los procesos de HyperOS Runtime.</string>
     <string name="need_update">Necesita actualizarse</string>
     <string name="developer_warning_title">Consejos para desarrolladores de módulos</string>
     <string name="developer_warning_summary">Desactiva las optimizaciones de despliegue en Android Studio, o usa el comando `gradlew installDebug` para instalar. De lo contrario, no se actualizará la APK del módulo.</string>

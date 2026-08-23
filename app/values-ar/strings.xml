@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[هذه حالة نادرة وربما يعود سببها إلى <b>Magisk</b> او ربما بسبب بعض الإضافات الرديئة.<br/>يرجى تجربة تعطيل جميع الإضافات في Magisk ماعدا LSPosed او قم بالإبلاغ عن المشكلة عبر ارفاق السجل بالكامل إلى المطورين.]]></string>
     <string name="system_prop_incorrect_summary">خطأ في خصائص النظام</string>
     <string name="system_prop_incorrect"><![CDATA[تم حذف او التلاعب ببعض خصائص النظام المهمة.<br/>قد يؤدي هذا احيانا إلى نتائج عكسية في الإضافات.]]></string>
+    <string name="hyrt_unavailable_summary">فشل حقن HyperOS Runtime</string>
+    <string name="hyrt_unavailable">تم اكتشاف HyperOS Runtime، لكن واجهة Zygisk Next API غير متاحة. لن يتم تحميل الوحدات الأصلية في عمليات HyperOS Runtime.</string>
     <string name="need_update">يحتاج إلى تحديث</string>
     <string name="developer_warning_title">تلميحات لمطور الإضافة</string>
     <string name="developer_warning_summary">يرجى تعطيل خاصية "deploy optimization" في Android Studio، او قم باستخدام الإمر `gradlew installDebug` للتثبيت.</string>

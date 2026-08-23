@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[L\'injection del framework di sistema è fallita.<br/>Questo problema si verifica raramente e può essere causato da <b>Magisk</b> o da alcuni moduli Magisk di scarsa qualità.<br/>Prova a disabilitare i moduli Magisk tranne Zygisk e LSPosed o invia il log completo agli sviluppatori.]]></string>
     <string name="system_prop_incorrect_summary">Proprietà di sistema errate</string>
     <string name="system_prop_incorrect"><![CDATA[Alcune proprietà di sistema necessarie sono state eliminate o modificate.<br/>In alcuni casi i moduli potrebbero non funzionare.]]></string>
+    <string name="hyrt_unavailable_summary">Injection di HyperOS Runtime fallita</string>
+    <string name="hyrt_unavailable">HyperOS Runtime è stato rilevato, ma l’API Zygisk Next non è disponibile. I moduli nativi non verranno caricati nei processi HyperOS Runtime.</string>
     <string name="need_update">Aggiornamento richiesto</string>
     <string name="developer_warning_title">Suggerimenti per lo sviluppatore del modulo</string>
     <string name="developer_warning_summary">Disattivare le ottimizzazioni di distribuzione su Android Studio, o utilizzare il comando `gradlew installDebug` per eseguire l\'installazione. Altrimenti l\'apk del modulo non verrà aggiornato.</string>

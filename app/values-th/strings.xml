@@ -33,6 +33,8 @@
     <string name="system_inject_fail"><![CDATA[สิ่งนี้เกิดขึ้นได้ยากและอาจเกิดจาก <b>Magisk</b> หรือโมดูล Magisk ที่มีคุณภาพต่ำบางตัว<br/>โปรดลองปิดการใช้งานโมดูล Magisk อื่นที่ไม่ใช่ Zygisk และ LSPosed หรือส่งบันทึกแบบเต็มไปยังนักพัฒนา]]></string>
     <string name="system_prop_incorrect_summary">System prop ไม่ถูกต้อง</string>
     <string name="system_prop_incorrect"><![CDATA[คุณสมบัติระบบที่จำเป็นบางอย่างถูกลบหรือแก้ไข<br/>โมดูลอาจใช้ไม่ได้ในบางครั้ง]]></string>
+    <string name="hyrt_unavailable_summary">การฉีดเข้า HyperOS Runtime ล้มเหลว</string>
+    <string name="hyrt_unavailable">ตรวจพบ HyperOS Runtime แต่ Zygisk Next API ไม่พร้อมใช้งาน โมดูลเนทีฟจะไม่ถูกโหลดเข้าสู่กระบวนการ HyperOS Runtime</string>
     <string name="need_update">จำเป็นต้องอัพเดท</string>
     <string name="info_manager_package_name">ชื่อแพ็คเกจผู้จัดการ</string>
     <string name="info_system_version">เวอร์ชันของระบบ</string>

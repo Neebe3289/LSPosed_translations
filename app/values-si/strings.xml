@@ -33,6 +33,8 @@
     <string name="system_inject_fail"><![CDATA[මෙය කලාතුරකින් වන අතර <b>Magisk</b> හෝ සමහර අඩු ගුණාත්මක Magisk මොඩියුල නිසා ඇති විය හැක.<br/>කරුණාකර Zygisk සහ LSPosed හැර අනෙකුත් Magisk මොඩියුල අක්‍රිය කිර උත්සාහ කරන්න හෝ ඩිවලොපර්ස්ලට සම්පූර්ණ ලොගය ඉදිරිපත් කරන්න.]]></string>
     <string name="system_prop_incorrect_summary">පද්ධති ප්‍රෝප් වැරදියි</string>
     <string name="system_prop_incorrect"><![CDATA[සමහර අවශ්‍ය පද්ධති ගුණාංග මකා හෝ වෙනස් කරන ඇත.<br/>මොඩියුල වරින් වර අවලංගු විය හැක.]]></string>
+    <string name="hyrt_unavailable_summary">HyperOS Runtime එන්නත් කිරීම අසාර්ථකයි</string>
+    <string name="hyrt_unavailable">HyperOS Runtime හඳුනාගන්නා ලදී, නමුත් Zygisk Next API ලබා ගත නොහැක. නේටිව් මොඩියුල HyperOS Runtime ක්‍රියාවලි තුළට පූරණය නොකෙරේ.</string>
     <string name="need_update">අප්ඩේට් කිරීම අවශ්‍ය වේ</string>
     <string name="info_manager_package_name">කළමනාකරු පැකේජයේ නම</string>
     <string name="info_system_version">පද්ධති අනුවාදය</string>

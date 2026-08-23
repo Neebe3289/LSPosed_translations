@@ -39,6 +39,8 @@
     <string name="system_inject_fail"><![CDATA[Bu nadiren yaşanır ve <b>Magisk</b> veya düşük kaliteli modüller yüzünden olabilir.<br/>Lütfen Zygisk ve LSPosed dışındaki tüm modülleri devre dışı bırakmayı deneyin veya geliştiricilere tam bir hata kaydı gönderin.]]></string>
     <string name="system_prop_incorrect_summary">Sistem özelliği hatalı</string>
     <string name="system_prop_incorrect"><![CDATA[Bazı gerekli sistem özellikleri silindi veya değiştirildi.<br/>Modüller zaman zaman çalışmayabilir.]]></string>
+    <string name="hyrt_unavailable_summary">HyperOS Runtime enjeksiyonu başarısız oldu</string>
+    <string name="hyrt_unavailable">HyperOS Runtime algılandı ancak Zygisk Next API kullanılamıyor. Yerel modüller HyperOS Runtime işlemlerine yüklenmeyecek.</string>
     <string name="need_update">Güncelleme gerekli</string>
     <string name="developer_warning_title">Modül geliştiricisi için ipuçları</string>
     <string name="developer_warning_summary">Lütfen Android Studio\'da "deploy optimizations" özelliğini devre dışı bırakın veya yüklemek için `gradlew installDebug` komutunu kullanın. Aksi takdirde modül APK\'sı güncellenmeyecektir.</string>

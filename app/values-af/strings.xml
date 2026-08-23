@@ -27,6 +27,8 @@
     <string name="system_inject_fail"><![CDATA[Dit is skaars en kan veroorsaak word deur <b>Magisk</b> of sommige Magisk-modules van lae gehalte.<br/>Probeer asseblief om Magisk-modules anders as Zygisk en LSPosed te deaktiveer of dien volledige log aan ontwikkelaars in.]]></string>
     <string name="system_prop_incorrect_summary">Stelselstut is verkeerd</string>
     <string name="system_prop_incorrect"><![CDATA[Sommige nodige stelseleienskappe is uitgevee of gewysig.<br/>Modules kan soms ongeldig word.]]></string>
+    <string name="hyrt_unavailable_summary">HyperOS Runtime-inspuiting het misluk</string>
+    <string name="hyrt_unavailable">HyperOS Runtime is bespeur, maar die Zygisk Next-API is nie beskikbaar nie. Inheemse modules sal nie in HyperOS Runtime-prosesse gelaai word nie.</string>
     <string name="info_manager_package_name">Bestuurder pakket naam</string>
     <string name="info_system_version">Stelsel weergawe</string>
     <string name="info_device">Toestel</string>

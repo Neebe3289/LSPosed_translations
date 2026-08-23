@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[Ovo je rijetko i može biti uzrokovano aplikacijom <b>Magisk</b> ili nekim Magisk modulima niske kvalitete.<br/>Pokušajte onemogućiti Magisk module koji nisu Zygisk i LSPosed ili pošaljite cijeli zapis programerima.]]></string>
     <string name="system_prop_incorrect_summary">Svojstva sustava nisu ispravna</string>
     <string name="system_prop_incorrect"><![CDATA[Neka od potrebnih svojstva sustava su izbrisana ili izmijenjena.<br/>Moduli povremeno mogu biti nedostupni.]]></string>
+    <string name="hyrt_unavailable_summary">Injektiranje u HyperOS Runtime nije uspjelo</string>
+    <string name="hyrt_unavailable">Otkriven je HyperOS Runtime, ali Zygisk Next API nije dostupan. Nativni moduli neće se učitavati u procese HyperOS Runtime.</string>
     <string name="need_update">Treba ažurirati</string>
     <string name="info_manager_package_name">Naziv paketa upravitelja</string>
     <string name="info_system_version">System verzija</string>

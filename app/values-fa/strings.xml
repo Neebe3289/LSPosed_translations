@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[این مشکل ممکن است توسط Magisk یا برخی از ماژول های Magisk که دارای کیفیت پایینی هستند ایجاد شود لطفا سعی کنید ماژول‌ های Magisk را به غیر از Zygisk و LSPosed غیرفعال کنید یا گزارش کامل را به توسعه‌ دهندگان ارسال کنید]]></string>
     <string name="system_prop_incorrect_summary">پایه سیستم نادرست است</string>
     <string name="system_prop_incorrect"><![CDATA[برخی از ویژگی های ضروری سیستم حذف شده یا تغییر داده شده به همین دلیل ماژول ها ممکن است گاهی اوقات غیرفعال شوند]]></string>
+    <string name="hyrt_unavailable_summary">تزریق HyperOS Runtime ناموفق بود</string>
+    <string name="hyrt_unavailable">HyperOS Runtime شناسایی شد، اما Zygisk Next API در دسترس نیست. ماژول‌های بومی در فرایندهای HyperOS Runtime بارگذاری نخواهند شد.</string>
     <string name="need_update">باید به روز رسانی شود</string>
     <string name="info_manager_package_name">نام بسته مدیر</string>
     <string name="info_system_version">نسخه اندروید</string>

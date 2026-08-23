@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[Tai pasitaiko retai ir gali būti dėl <b>"Magisk"</b> arba kai kurių nekokybiškų "Magisk" modulių.<br/>Pabandykite išjungti kitus "Magisk" modulius, išskyrus "Zygisk" ir "LSPosed", arba pateikite visą žurnalą kūrėjams.]]></string>
     <string name="system_prop_incorrect_summary">Neteisingas sistemos rekvizitas</string>
     <string name="system_prop_incorrect"><![CDATA[Ištrintos arba pakeistos kai kurios būtinos sistemos savybės.<br/>Moduliai kartais gali būti pripažinti negaliojančiais.]]></string>
+    <string name="hyrt_unavailable_summary">HyperOS Runtime injekcija nepavyko</string>
+    <string name="hyrt_unavailable">Aptikta HyperOS Runtime, tačiau Zygisk Next API nepasiekiama. Savieji moduliai nebus įkeliami į HyperOS Runtime procesus.</string>
     <string name="need_update">Reikia atnaujinti</string>
     <string name="info_manager_package_name">Valdytojo paketo pavadinimas</string>
     <string name="info_system_version">Sistemos versija</string>

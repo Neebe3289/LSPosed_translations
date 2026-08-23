@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[Це рідкісна проблема, яка може бути спричинена <b>Magisk</b> або деякими неякісними модулями Magisk.<br/>Спробуйте вимкнути всі модулі Magisk, крім Zygisk та LSPosed, або надішліть повний звіт розробникам.]]></string>
     <string name="system_prop_incorrect_summary">Неправильні системні налаштування</string>
     <string name="system_prop_incorrect"><![CDATA[Деякі необхідні параметри системи видалені або змінені.<br/>Модулі можуть не працювати належним чином.]]></string>
+    <string name="hyrt_unavailable_summary">Помилка ін’єкції в HyperOS Runtime</string>
+    <string name="hyrt_unavailable">Виявлено HyperOS Runtime, але API Zygisk Next недоступний. Нативні модулі не завантажуватимуться в процеси HyperOS Runtime.</string>
     <string name="need_update">Потрібно оновити</string>
     <string name="info_manager_package_name">Ім\'я пакета менеджера</string>
     <string name="info_system_version">Версія Android</string>

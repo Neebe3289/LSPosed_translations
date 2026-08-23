@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[Αυτό είναι σπάνιο και μπορεί να προκληθεί από το <b>Magisk</b> ή από κάποια χαμηλής ποιότητας πρόσθετα τουMagisk.<br/>Παρακαλώ προσπαθήστε να απενεργοποιήσετε όλα τα πρόσθετα του Magisk εκτός από το Zygisk και το LSPosed ή να υποβάλετε το πλήρες αρχείο καταγραφής στους προγραμματιστές.]]></string>
     <string name="system_prop_incorrect_summary">Λανθασμένο στήριγμα συστήματος</string>
     <string name="system_prop_incorrect"><![CDATA[Ορισμένες απαραίτητες ιδιότητες συστήματος διαγράφηκαν ή τροποποιήθηκαν.<br/>Τα πρόσθετα μπορεί να ακυρωθούν περιστασιακά.]]></string>
+    <string name="hyrt_unavailable_summary">Η έγχυση στο HyperOS Runtime απέτυχε</string>
+    <string name="hyrt_unavailable">Εντοπίστηκε το HyperOS Runtime, αλλά το Zygisk Next API δεν είναι διαθέσιμο. Οι εγγενείς μονάδες δεν θα φορτωθούν στις διεργασίες HyperOS Runtime.</string>
     <string name="need_update">Απαιτείται ενημέρωση</string>
     <string name="info_manager_package_name">Όνομα πακέτου διαχειριστή</string>
     <string name="info_system_version">Έκδοση συστήματος</string>

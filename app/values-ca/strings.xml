@@ -34,6 +34,8 @@
     <string name="system_inject_fail"><![CDATA[Això és poc comú i podria ser causat per <b>Magisk</b> o algún Mòdul de baixa qualitat<br/>Si us plau, prova a desactivar els demés mòduls de magisk excepte Zygisk i LSPosed o envia un informe complet als desarrolladors.]]></string>
     <string name="system_prop_incorrect_summary">Prop del sistema incorrecte</string>
     <string name="system_prop_incorrect"><![CDATA[S\'han suprimit o modificat algunes propietats necessàries del sistema.<br/>Els mòduls poden invalidar-se ocasionalment.]]></string>
+    <string name="hyrt_unavailable_summary">Ha fallat la injecció de HyperOS Runtime</string>
+    <string name="hyrt_unavailable">S’ha detectat HyperOS Runtime, però l’API de Zygisk Next no està disponible. Els mòduls natius no es carregaran als processos de HyperOS Runtime.</string>
     <string name="need_update">Cal actualitzar</string>
     <string name="info_manager_package_name">Nom del paquet del gestor</string>
     <string name="info_system_version">Versió del sistema</string>
